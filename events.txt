@@ -1,5 +1,1 @@
-1,6,2019,Summer break starts and freedom!
-8,7,2019,Summerjob and making some money!
-1,8,2019,School Starts and a new mask is forged!
-24,12,2019,Christmas is here again!
-12,3,2020,My birthday is back is dumb shit!
+2,10,2019,THIS IS THE TEXT THAT WILL APPEAR ON THE SCREEN
